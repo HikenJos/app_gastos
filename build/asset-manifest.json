@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57c4b5d4.chunk.css",
+    "main.js": "/static/js/main.ac58b06a.chunk.js",
+    "main.js.map": "/static/js/main.ac58b06a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07d97faf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07d97faf.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.df7d085c.chunk.js": "/static/js/2.df7d085c.chunk.js",
+    "static/js/2.df7d085c.chunk.js.map": "/static/js/2.df7d085c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.57c4b5d4.chunk.css.map": "/static/css/main.57c4b5d4.chunk.css.map",
+    "static/js/2.df7d085c.chunk.js.LICENSE.txt": "/static/js/2.df7d085c.chunk.js.LICENSE.txt",
+    "static/media/borrar.95399948.svg": "/static/media/borrar.95399948.svg",
+    "static/media/cat_comida.7e8dffc5.svg": "/static/media/cat_comida.7e8dffc5.svg",
+    "static/media/cat_compras.70c3362b.svg": "/static/media/cat_compras.70c3362b.svg",
+    "static/media/cat_cuentas-y-pagos.340035c4.svg": "/static/media/cat_cuentas-y-pagos.340035c4.svg",
+    "static/media/cat_diversion.0bc11605.svg": "/static/media/cat_diversion.0bc11605.svg",
+    "static/media/cat_hogar.6660b146.svg": "/static/media/cat_hogar.6660b146.svg",
+    "static/media/cat_ropa.2329be84.svg": "/static/media/cat_ropa.2329be84.svg",
+    "static/media/cat_salud-e-higiene.579c754b.svg": "/static/media/cat_salud-e-higiene.579c754b.svg",
+    "static/media/cat_transporte.65501ecc.svg": "/static/media/cat_transporte.65501ecc.svg",
+    "static/media/down.c5239c73.svg": "/static/media/down.c5239c73.svg",
+    "static/media/editar.96ee3277.svg": "/static/media/editar.96ee3277.svg",
+    "static/media/flecha.dbc4295d.svg": "/static/media/flecha.dbc4295d.svg",
+    "static/media/login.f9ee372d.svg": "/static/media/login.f9ee372d.svg",
+    "static/media/logo.453ca750.png": "/static/media/logo.453ca750.png",
+    "static/media/logout.c8b77848.svg": "/static/media/logout.c8b77848.svg",
+    "static/media/plus.4e30c6cd.svg": "/static/media/plus.4e30c6cd.svg",
+    "static/media/puntos.d5e9e5d5.svg": "/static/media/puntos.d5e9e5d5.svg",
+    "static/media/registro.debec03a.svg": "/static/media/registro.debec03a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07d97faf.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.df7d085c.chunk.js",
+    "static/css/main.57c4b5d4.chunk.css",
+    "static/js/main.ac58b06a.chunk.js"
+  ]
+}
