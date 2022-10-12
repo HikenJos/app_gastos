@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# List Expensive
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_DEMO application to keep a list of the expenses made, allows you to filter expenses by categories, keep a record of expenses and the CRUD process._
 
-## Available Scripts
+## Starting 🚀
 
-In the project directory, you can run:
+You can clone the project with: git clone https://github.com/HikenJos/app_gastos.git.
 
-### `yarn start`
+_Use ```yarn -i``` to install dependencies_
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+See **Preview** to learn how to deploy the project.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+### Pre-requirements 📋
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_You need to have ```yarn``` to be able to use the commands_
 
-### `yarn build`
+```To install yarn you can visit its official website:``` https://yarnpkg.com/getting-started/install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Preview 📦
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+_Login Screen_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/25781463/195462514-16dc11de-390b-4d23-8ccd-163ea97c7dc7.png)
 
-### `yarn eject`
+_Main Screen_
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![image](https://user-images.githubusercontent.com/25781463/195462327-6e6cadd6-a99b-4c2f-95fe-2ec35fac9256.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+_List Screen_
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![image](https://user-images.githubusercontent.com/25781463/195462413-19561d41-706f-441f-a3fc-bb953ea8b970.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Built with 🛠️
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+_React.js, Firebase, Styled Components_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [React](https://es.reactjs.org/) - Javascript Library
+* [Firebase](https://firebase.google.com/) - Login and Database
+* [Styled Components](https://styled-components.com/) - Styles CSS
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Authorss ✒️
 
-### Analyzing the Bundle Size
+* **Jose Sandoval** - *Initial Project* - [HikenJos](https://github.com/HikenJos)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Gratefulness 🎁
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* Thank you very much for taking the time to read a little about the project 📢
+* Invite a beer 🍺 or a coffee ☕ and a talk.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
